@@ -55,7 +55,7 @@ collections:
       - {label: "GitHub", name: "github", widget: "string"}
   # Services
   - name: "services"
-    label: "Services"
+    label: "Service"
     folder: "services"
     create: true
     slug: "{{slug}}"
