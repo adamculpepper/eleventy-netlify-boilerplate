@@ -1,7 +1,7 @@
 ---
 gender: Male
 name: Larry Green
-bio: Larry likes beef.
+bio: Larry really likes beef.
 education: []
 blocks: []
 
