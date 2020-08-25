@@ -3,7 +3,7 @@ label: Team
 hide_body: false
 display_field: name
 fields:
-- name: name
+- name: title
   type: text
   config:
     required: false
