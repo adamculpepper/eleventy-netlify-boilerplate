@@ -63,9 +63,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   # Team
-  - name: "team"
+  - name: "teams"
     label: "Team"
-    folder: "team"
+    folder: "teams"
     create: true
     slug: "{{slug}}"
     fields:

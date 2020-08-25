@@ -67,6 +67,6 @@ fields:
     min: 
     max: 
 pages:
-- team/larry-green.md
-- team/mark-smith.md
-- team/sarah-hicks.md
+- teams/larry-green.md
+- teams/mark-smith.md
+- teams/sarah-hicks.md
