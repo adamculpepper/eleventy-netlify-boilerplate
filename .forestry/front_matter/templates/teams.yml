@@ -68,7 +68,8 @@ fields:
 - name: blocks
   type: blocks
   label: Blocks
-  template_types: []
+  template_types:
+  - services
   config:
     min: 
     max: 
