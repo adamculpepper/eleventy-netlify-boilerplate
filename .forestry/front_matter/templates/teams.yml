@@ -80,3 +80,5 @@ fields:
       required: false
     label: Another Field
   label: Group
+pages:
+- team/mary-silverman.md
