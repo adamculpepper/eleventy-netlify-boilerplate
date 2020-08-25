@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: "*.json"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - teams
 - type: directory

@@ -1,7 +1,7 @@
 ---
 label: Team
 hide_body: false
-display_field: name
+display_field: title
 fields:
 - name: title
   type: text
