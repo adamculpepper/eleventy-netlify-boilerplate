@@ -12,7 +12,7 @@ sections:
   exclude: "*.json"
   new_doc_ext: md
   templates:
-  - team
+  - teams
 - type: directory
   path: services
   label: Services

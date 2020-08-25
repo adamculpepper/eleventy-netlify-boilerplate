@@ -58,7 +58,3 @@ fields:
     max: 
     labelField: 
   label: Education
-pages:
-- teams/larry-green.md
-- teams/mark-smith.md
-- teams/sarah-hicks.md
