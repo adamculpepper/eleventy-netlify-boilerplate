@@ -10,5 +10,6 @@ blocks: []
 skills:
 - Coffee Maker
 - Web Developer
+title: Mark Smith
 
 ---
