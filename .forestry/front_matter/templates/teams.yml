@@ -58,3 +58,10 @@ fields:
     max: 
     labelField: 
   label: Education
+- name: skills
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Skills
