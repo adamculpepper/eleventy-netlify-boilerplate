@@ -74,9 +74,9 @@ fields:
     config:
       required: false
     label: Favorite Color
+  - name: another_field
+    type: text
+    config:
+      required: false
+    label: Another Field
   label: Group
-- name: another_field
-  type: text
-  config:
-    required: false
-  label: Another Field
