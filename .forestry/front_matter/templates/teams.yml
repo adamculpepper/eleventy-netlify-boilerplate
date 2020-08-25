@@ -65,3 +65,10 @@ fields:
     min: 
     max: 
   label: Skills
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
