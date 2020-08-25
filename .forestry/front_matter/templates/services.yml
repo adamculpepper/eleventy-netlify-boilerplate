@@ -8,3 +8,11 @@ fields:
 - type: text
   name: body
   label: body
+- name: authors
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Authors
+  description: List of authors goes here
