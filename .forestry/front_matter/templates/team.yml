@@ -12,7 +12,9 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - Male
+    - Female
     source:
       type: simple
       section: 
