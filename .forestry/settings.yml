@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: team
   label: Team
-  create: documents
+  create: none
   match: "**/*"
   exclude: "*.json"
   new_doc_ext: md
