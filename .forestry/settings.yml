@@ -16,9 +16,11 @@ sections:
 - type: directory
   path: services
   label: Services
-  create: all
+  create: documents
   match: "**/*"
   exclude: "*.json"
+  templates:
+  - services
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
