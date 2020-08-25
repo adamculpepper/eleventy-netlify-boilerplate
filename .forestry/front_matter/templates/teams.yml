@@ -65,11 +65,18 @@ fields:
     min: 
     max: 
   label: Skills
-- name: blocks
-  type: blocks
-  label: Blocks
-  template_types:
-  - services
+- name: group
+  type: field_group
+  config: {}
+  fields:
+  - name: favorite_color
+    type: text
+    config:
+      required: false
+    label: Favorite Color
+  label: Group
+- name: another_field
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: Another Field
