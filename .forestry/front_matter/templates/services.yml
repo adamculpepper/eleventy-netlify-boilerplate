@@ -1,0 +1,49 @@
+---
+label: Services
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: body
+  label: body
+- name: authors
+  type: field_group_list
+  fields:
+  - name: author_name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: bio
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Bio
+  - name: gender
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Male
+      - Female
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Gender
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Authors
+  description: List of authors goes here
+pages:
+- services/web-development.md
