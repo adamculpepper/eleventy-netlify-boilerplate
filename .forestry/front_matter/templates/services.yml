@@ -45,3 +45,5 @@ fields:
     labelField: 
   label: Authors
   description: List of authors goes here
+pages:
+- services/web-development.md
