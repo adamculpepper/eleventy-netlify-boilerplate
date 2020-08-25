@@ -63,3 +63,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- team/mark-smith.md
