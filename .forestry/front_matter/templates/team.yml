@@ -58,14 +58,6 @@ fields:
     max: 
     labelField: 
   label: Education
-- name: blocks
-  type: blocks
-  label: Blocks
-  template_types:
-  - services
-  config:
-    min: 
-    max: 
 pages:
 - team/larry-green.md
 - team/mark-smith.md
