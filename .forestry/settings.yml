@@ -9,6 +9,7 @@ sections:
   label: Team
   create: all
   match: "**/*"
+  exclude: "*.json"
 - type: directory
   path: services
   label: Services
