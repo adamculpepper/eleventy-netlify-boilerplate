@@ -1,0 +1,7 @@
+{
+  "layout": "layouts/team.njk",
+  "permalink": "team/{{ title | slug }}/index.html",
+  "tags": [
+    "team"
+  ]
+}
