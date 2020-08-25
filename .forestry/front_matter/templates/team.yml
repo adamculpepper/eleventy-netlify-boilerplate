@@ -65,3 +65,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- team/mark-school.md
