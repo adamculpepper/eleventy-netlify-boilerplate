@@ -84,11 +84,6 @@ fields:
   type: boolean
   label: Accepting Work
 - name: photos
-  type: file
-  config:
-    maxSize: 64
-  label: Photos
-- name: photos2
   type: image_gallery
   config: {}
-  label: Photos2
+  label: Photos
