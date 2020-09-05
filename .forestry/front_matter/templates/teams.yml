@@ -83,8 +83,8 @@ fields:
 - name: accepting_work
   type: boolean
   label: Accepting Work
-- name: photo
+- name: photos
   type: file
   config:
     maxSize: 64
-  label: Photo
+  label: Photos
