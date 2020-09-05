@@ -12,5 +12,10 @@ skills:
 - Web Developer
 title: Mark Smith
 photo: "/images/homer-bushes.gif"
+photos:
+- "/images/homer-bushes-2.gif"
+- "/images/magento-bad.jpg"
+- "/images/homer-bushes-1.gif"
+accepting_work: true
 
 ---
