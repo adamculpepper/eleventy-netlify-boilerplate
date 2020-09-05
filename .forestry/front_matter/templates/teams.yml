@@ -80,3 +80,11 @@ fields:
       required: false
     label: Another Field
   label: Group
+- name: accepting_work
+  type: boolean
+  label: Accepting Work
+- name: photo
+  type: file
+  config:
+    maxSize: 64
+  label: Photo
